@@ -1,7 +1,7 @@
 ---
 title: "UNIVERSIDAD NACIONAL AGRARIA LA MOLINA <br> FACULTAD DE AGRONOMIA <br> `r if (!knitr:::is_html_output()) knitr::include_graphics('img/unalm.png')`"
-subtitle: "PROYECTO DE TESIS <br> FERTILIZACION FOLIAR CON ZINC EN EL CULTIVO DE AJI ESCABECHE (*Capsicum baccatum* L. var. *pendulum* (Willd) Eshbaugh), EN CONDICIONES DE AGRICULTURA ORGANICA"
-author: "EJECUTOR <br> FLAVIO LOZANO ISLA <br> ASESOR <br> RAÚL BLAS SEVILLANO"
+subtitle: "PROYECTO DE TESIS <br> lanalisis hidrologia del rio mantaro"
+author: "EJECUTOR <br> Rubila Clemente Monago <br> ASESOR <br> RAÚL BLAS SEVILLANO"
 date: "LIMA-PERU <br> `r Sys.Date()`"
 description: document template for scientific report
 github-repo: flavjack/thesis/issues
